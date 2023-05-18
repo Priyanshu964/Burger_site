@@ -14,9 +14,7 @@
 
 .container1 {
     height: 100vh;
-    background-image: url(img/head_bg.png);
-    background-size: cover;
-    background-position: center;
+  
     z-index: 2;
 }
 
@@ -106,7 +104,7 @@ nav {
     text-transform: uppercase;
     color: #3d2514;
     font-weight: 400;
-    font-family: 'Courier New', Courier, monospace;
+    font-family: "Bebas Neue";
 }
 
 .head p {
