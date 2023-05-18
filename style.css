@@ -106,7 +106,7 @@ nav {
     text-transform: uppercase;
     color: #3d2514;
     font-weight: 400;
-    font-family: "Bebas Neue";
+    font-family: 'Courier New', Courier, monospace;
 }
 
 .head p {
